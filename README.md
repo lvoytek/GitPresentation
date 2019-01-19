@@ -62,6 +62,6 @@ More information on conflicting files can be found [here](https://help.github.co
 General Syntax available [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Other Version Control Systems
-[SVN](https://subversion.apache.org/)
-[Mercurial](https://www.mercurial-scm.org/)
+[SVN](https://subversion.apache.org/)  
+[Mercurial](https://www.mercurial-scm.org/)  
 [TFS](https://visualstudio.microsoft.com/tfs/)
