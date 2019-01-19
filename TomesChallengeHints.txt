@@ -1,0 +1,9 @@
+PigPen Cypher			https://en.wikipedia.org/wiki/Pigpen_cipher
+
+USAEPG Home Page		https://www.epg.army.mil/
+
+Jacobs Home Page		http://www.jacobs.com/
+
+NMEA 					https://en.wikipedia.org/wiki/NMEA_0183
+
+FreeSpace Path Loss 	https://www.allaboutcircuits.com/tools/free-space-path-loss-calculator/
