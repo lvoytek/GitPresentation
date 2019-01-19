@@ -7,8 +7,8 @@
 
 ## Installing Git:
 
-Windows: [Git SCM for Windows](https://git-scm.com/download/win) or Ubuntu Subsystem on the Microsoft Store
-Mac: [Git SCM for Mac](https://git-scm.com/download/mac) or typing __git --version__ in Terminal
+Windows: [Git SCM for Windows](https://git-scm.com/download/win) or Ubuntu Subsystem on the Microsoft Store  
+Mac: [Git SCM for Mac](https://git-scm.com/download/mac) or typing __git --version__ in Terminal  
 Ubuntu: __sudo apt install git__ on command line
 
 
